@@ -1,2 +1,3 @@
 # Counting Sheeps
-Javascript code that counts sheep (true) in a shed for sheep.
+Javascript code that counts sheep (true) for a shed for sheep in console.
+## 🐑🐑🐑🐑🐑🐺
