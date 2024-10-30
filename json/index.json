@@ -1,8 +1,0 @@
-{
-    "sheep" :[
-        0 : true
-    ],
-    "wolf" :[
-        1 : false
-    ]
-}
